@@ -2,7 +2,7 @@
 i'm studying computer science at the faculty of science @ZU, and besides my study i'm learning Web development through [TheOdinProject](https://theodinproject.com/) and [Full Stack open](https://fullstackopen.com/en/).
 
 - 🔭 I’m currently working on:
-  - [cv-builder](https://github.com/alyHusseinn/cv-builder)
+  - [Memory-game](https://github.com/alyHusseinn/Memory-game)
 - 🌱 I’m currently learning:
   - React
   - linux
@@ -15,7 +15,7 @@ i'm studying computer science at the faculty of science @ZU, and besides my stud
 ### Languages & Framworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,cpp,java,html,css,scss,jest,webpack,vite,figma,git" />
+  <img src="https://skillicons.dev/icons?i=js,cpp,java,html,css,scss,jest,webpack,vite,git" />
 </p>
 
 
