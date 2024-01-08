@@ -1,21 +1,18 @@
 ### Hi there, I'm Aly 👋
 i'm studying computer science at the faculty of science @ZU, and besides my study i'm learning Web development through [TheOdinProject](https://theodinproject.com/) and [Full Stack open](https://fullstackopen.com/en/).
 
-- 🔭 I’m currently working on:
-  - [Memory-game](https://github.com/alyHusseinn/Memory-game)
 - 🌱 I’m currently learning:
-  - React
-  - linux
+  - Node.js
+  - Next.js
 - 📖 I'm currently reading:
   - [Operating System Concepts](https://www.goodreads.com/book/show/83833.Operating_System_Concepts?ref=nav_sb_ss_1_25)
   - [Algorithms 4th edition](https://www.goodreads.com/book/show/10803540-algorithms)
   - [JavaScript: The Definitive Guide](https://www.goodreads.com/book/show/148050.JavaScript)
-  - [صك المؤامرة: وعد بلفور](https://www.goodreads.com/book/show/19469625?ac=1&from_search=true&qid=0oJ0E1CmIw&rank=1)
 
 ### Languages & Framworks & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,cpp,java,html,css,scss,jest,webpack,vite,git" />
+  <img src="https://skillicons.dev/icons?i=js,react,cpp,java,html,css,scss,jest,vitest,webpack,vite,git,figma" />
 </p>
 
 
